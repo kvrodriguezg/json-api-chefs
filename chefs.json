@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sofía Torres",
+    "especialidad": "Postres",
+    "pais": "Chile",
+    "foto": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Méndez",
+    "especialidad": "Cocina Italiana",
+    "pais": "México",
+    "foto": "https://randomuser.me/api/portraits/men/34.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Valentina Rojas",
+    "especialidad": "Vegano",
+    "pais": "Argentina",
+    "foto": "https://randomuser.me/api/portraits/women/68.jpg"
+  }
+]
